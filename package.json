@@ -1,0 +1,34 @@
+{
+  "name": "dating-app",
+  "version": "1.0.0",
+  "description": "Dating app scaffold (Expo Router)",
+  "main": "expo-router/entry",
+  "private": true,
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filina/hero.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filina/hero/issues"
+  },
+  "homepage": "https://github.com/filina/hero#readme",
+  "dependencies": {
+    "expo": "^54.0.32",
+    "expo-router": "^6.0.22",
+    "react": "^19.2.4",
+    "react-native": "^0.83.1"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.10",
+    "typescript": "^5.9.3"
+  }
+}
